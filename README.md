@@ -22,10 +22,10 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 | Projeto | Descrição |
 |---------|-----------|
-| [BitDog Calendar](./projetos/bitdog_calendar)| Projeto final da primeira etapa do curso. Um calendário inteligente baseado na placa BitDog Lab |
+| [BitDog Calendar](projetos/bitdog_calendar)| Projeto final da primeira etapa do curso. Um calendário inteligente baseado na placa BitDog Lab |
 
 ---
 
 ## Licença
 
-[GPL-3.0 license](.LICENSE)
+[GPL-3.0 license](LICENSE)
