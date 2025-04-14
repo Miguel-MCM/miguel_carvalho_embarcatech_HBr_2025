@@ -23,6 +23,7 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 | Projeto | Descrição |
 |---------|-----------|
 | [BitDog Calendar](projetos/bitdog_calendar)| Projeto final da primeira etapa do curso. Um calendário inteligente baseado na placa BitDog Lab |
+| [Tarefas - Unidade 1](projetos/tarefas_unidade_1)| atividades feitas com objetivo de estudo da unidade 1 do curso de residência em sistemas embarcados da Embarcatech. |
 
 ---
 
