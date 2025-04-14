@@ -20,7 +20,7 @@ int main() {
     setup_adc();
 
     while (true) {
-        printf("----Temperature----\n%.03f ºC\n", read_temperature());
+        printf("----Temperature----\n%.0f ºC\n", read_temperature());
         sleep_ms(1000);
     }
 }
