@@ -21,7 +21,7 @@ Neste projeto se encontram todas as atividades feitas com objetivo de estudo da 
 | Tarefa | Descrição | Conteúdo Trabalhado |
 |--------|-----------|---------------------|
 | [Contador Decrescente com Registro de Eventos por Interrupção](contador_decrescente_) | Um contador de pressionamentos do botão **B** em um período de tempo a partir do pressionamento do botão **A**, com registro de eventos por meio de interrupções. | Uso de interrupções de GPIO para registro de eventos |
-
+| [Leitura dos Sinais Analógicos do Joystick](adc_joystick) | Lê as entradas analógicas do joystick e, após fazer a conversão, exibe os valores lidos pela interface USB. | Leitura de sinais analógicos por meio de conversores analógico digital |
 
 ## Como Começar
 
