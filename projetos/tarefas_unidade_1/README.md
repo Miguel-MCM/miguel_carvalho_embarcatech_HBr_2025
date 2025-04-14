@@ -22,6 +22,7 @@ Neste projeto se encontram todas as atividades feitas com objetivo de estudo da 
 |--------|-----------|---------------------|
 | [Contador Decrescente com Registro de Eventos por Interrupção](contador_decrescente_) | Um contador de pressionamentos do botão **B** em um período de tempo a partir do pressionamento do botão **A**, com registro de eventos por meio de interrupções. | Uso de interrupções de GPIO para registro de eventos |
 | [Leitura dos Sinais Analógicos do Joystick](adc_joystick) | Lê as entradas analógicas do joystick e, após fazer a conversão, exibe os valores lidos pela interface USB. | Leitura de sinais analógicos por meio de conversores analógico digital |
+| [Monitor de Temperauta Interna da MCU](adc_temperature) | Lê a entrada analógica do sensor interno de temperatura da RP2040 e, após fazer a conversão, exibe o valor lido pela interface USB. | Leitura de sinais analógicos por meio de conversores analógico digital & Uso do sensor interno de temperatura da RP2040 |
 
 ## Como Começar
 
