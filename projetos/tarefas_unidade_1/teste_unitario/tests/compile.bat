@@ -1,0 +1,1 @@
+gcc -I../ -Iunity test_adc_to_celsius.c ../adc_to_celsius.c unity/unity.c -o test_adc_to_celsius.exe
