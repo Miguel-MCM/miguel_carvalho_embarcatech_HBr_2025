@@ -24,6 +24,7 @@ Neste projeto se encontram todas as atividades feitas com objetivo de estudo da 
 | [Leitura dos Sinais Analógicos do Joystick](adc_joystick) | Lê as entradas analógicas do joystick e, após fazer a conversão, exibe os valores lidos pela interface USB. | Leitura de sinais analógicos por meio de conversores analógico digital |
 | [Monitor de Temperauta Interna da MCU](adc_temperature) | Lê a entrada analógica do sensor interno de temperatura da RP2040 e, após fazer a conversão, exibe o valor lido pela interface USB. | Leitura de sinais analógicos por meio de conversores analógico digital & Uso do sensor interno de temperatura da RP2040 |
 | [Testes Unitários](teste_unitario) | Função para converter a leitura do ADC interno de temperatura da Pico W para graus celsius e um teste unitário para esta função, garantindo o seu funcionamento para entradas e saídas conhecidas. | Aplicar o conceito de testes unitários no âmbito de programação para microcontroladores. |
+| [Arquitetura Modular](arquitetura_modular) | Um simples programa de blink feito utilizando estruturação de código com arquitetura modular. | Reestruturar um código de base para se enquadrar em uma arquitetura modular.|
 
 ## Como Começar
 
